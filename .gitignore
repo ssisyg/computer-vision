@@ -1,0 +1,4 @@
+*.ply
+*.zip
+__pycache__/
+*.pyc
